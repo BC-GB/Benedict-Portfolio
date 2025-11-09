@@ -1,4 +1,4 @@
-# Portfolio
+# Benedict's Project Portfolio
 
 > Applying structured thinking and technology to solve real-world problems—skills that transfer directly to business environments.
 
