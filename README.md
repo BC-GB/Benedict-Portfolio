@@ -48,7 +48,7 @@ Study planner for managing exam preparation across multiple subjects.
 
 Stock screening and analysis tool for tracking market opportunities.
 
-<img width="1920" alt="Stock Screener Dashboard" src="https://github.com/user-attachments/assets/INSERT_SCREENER_IMAGE_URL_HERE">
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3442eee0-b2a9-4529-96bf-eef893b02b6e" />
 
 **Tech:** Python
 
